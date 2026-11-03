@@ -8,6 +8,8 @@ import {
   SystemSettings,
 } from '../types/index.ts';
 
+import { handleClientSideFallback } from './clientFallback.ts';
+
 const TOKEN_KEY = 'flowora_auth_token';
 
 export function getStoredToken(): string | null {
@@ -41,18 +43,37 @@ async function request<T>(endpoint: string, options: RequestInit = {}): Promise<
     headers['Authorization'] = `Bearer ${token}`;
   }
 
-  const response = await fetch(endpoint, {
-    ...options,
-    headers,
-  });
+  try {
+    const response = await fetch(endpoint, {
+      ...options,
+      headers,
+    });
 
-  const data = await response.json().catch(() => ({}));
+    // Check if running on static host (e.g. Netlify) where /api/* returns 404
+    if (response.status === 404) {
+      console.warn(`[Flowora AI] ${endpoint} returned 404 (static deployment detected). Using local storage engine.`);
+      return await handleClientSideFallback<T>(endpoint, options);
+    }
 
-  if (!response.ok) {
-    throw new Error(data.error || `Request failed with status ${response.status}`);
+    const data = await response.json().catch(() => ({}));
+
+    if (!response.ok) {
+      throw new Error(data.error || `Request failed with status ${response.status}`);
+    }
+
+    return data as T;
+  } catch (error: any) {
+    // If backend server is unreachable (Netlify static deploy, offline mode, or network block)
+    if (
+      error?.message?.includes('status 404') ||
+      error?.message?.includes('Failed to fetch') ||
+      error?.message?.includes('NetworkError')
+    ) {
+      console.warn(`[Flowora AI] Network unreachable for ${endpoint}. Falling back to client-side storage engine.`);
+      return await handleClientSideFallback<T>(endpoint, options);
+    }
+    throw error;
   }
-
-  return data as T;
 }
 
 export const api = {
