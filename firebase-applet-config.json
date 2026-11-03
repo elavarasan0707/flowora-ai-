@@ -1,0 +1,13 @@
+{
+  "projectId": "content-flow-1b894",
+  "appId": "1:922497842429:web:b99c32ae4683c901d01294",
+  "apiKey": "AIzaSyCa_UeIoHff7Q21FeNI0yoiYvUsEr_S0kM",
+  "authDomain": "content-flow-1b894.firebaseapp.com",
+  "databaseURL": "https://content-flow-1b894-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "storageBucket": "content-flow-1b894.firebasestorage.app",
+  "messagingSenderId": "922497842429",
+  "measurementId": "",
+  "firestoreDatabaseId": "(default)",
+  "oAuthClientId": "",
+  "recaptchaSiteKey": ""
+}

@@ -1,0 +1,197 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_1",
+      "email": "selvarajkasthuri15081984@gmail.com",
+      "name": "Selvaraj (Administrator)",
+      "role": "admin",
+      "credits": 4993,
+      "plan": "agency",
+      "passwordHash": "b4b0263631e6fcf6b78b36f47afc9b086261b055bcc4ca9abdf07baf00b8c6c45fa01de17bcea3792e474dba42a308ca10218bea885ad9ee5acf7a531e94d896",
+      "salt": "f07a5184e01a7527db51c5a1ddb9139c",
+      "createdAt": "2026-10-27T04:50:18.739Z",
+      "lastLoginAt": "2026-11-03T06:11:45.110Z",
+      "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocK7bU6fXbBDrqKGFSe9qpYAyNHd9sEZ29gz9c0bgOKpeImIxOIa=s96-c",
+      "googleId": "IbNRRlnu4rWZhrLIHROKGlMc20C3"
+    },
+    {
+      "id": "usr_fubzc05bfmw08975r",
+      "email": "creator@flowora.ai",
+      "name": "Alex Rivera",
+      "role": "user",
+      "credits": 100,
+      "plan": "free",
+      "passwordHash": "9ca9c0fb94b44178ab149334b1536835308350ba1ea58f911817b9bcd5a5a12fbca78e08f8ce09d0654390eadbfc28c10659d6732845402d5dd560bc968b90e4",
+      "salt": "7329b18109bfd7b1f96341dfcc876ba4",
+      "createdAt": "2026-11-03T05:08:30.975Z",
+      "lastLoginAt": "2026-11-03T05:08:30.975Z"
+    },
+    {
+      "id": "usr_g_ojzorzxhh",
+      "email": "elae2379@gmail.com",
+      "name": "Google User",
+      "role": "user",
+      "credits": 100,
+      "plan": "free",
+      "createdAt": "2026-11-03T06:19:09.559Z",
+      "lastLoginAt": "2026-11-03T06:19:09.559Z"
+    }
+  ],
+  "brandProfiles": [],
+  "contentItems": [
+    {
+      "id": "cnt_26v6kpxvx",
+      "userId": "usr_admin_1",
+      "title": "REEL SCRIPT: Dental Clinic 3 Brushing Mistakes",
+      "contentType": "reel_script",
+      "category": "instagram",
+      "prompt": "CONTENT TYPE: REEL_SCRIPT\nTOPIC / CORE CONCEPT: Dental Clinic 3 Brushing Mistakes\nTARGET AUDIENCE: General active audience\nLANGUAGE REQUIREMENT: Tanglish (Ensure genuine native fluency and natural spoken cadence in Tanglish)\nTONE & STYLE: conversational and engaging\nCAMPAIGN OBJECTIVE: High engagement, value delivery, and conversion\nPREFERRED CALL TO ACTION: Follow for more insights!\n\n========================================\nREQUIRED OUTPUT STRUCTURE: CHATGPT-STYLE VIRAL INSTAGRAM REEL SCRIPT\n========================================\nTransform the user's provided context into a high-retention, viral Instagram reel script formatted exactly like top-performing creator prompts on ChatGPT.\n\nLANGUAGE CADENCE: Tanglish\nCRITICAL FOR TANGLISH: Use authentic, natural conversational spoken Tanglish (Tamil in English alphabet) as spoken by trendy creators, influencers, and digital marketers (e.g. \"Machan, idha gavanicheengala?\", \"Indha oru mistake-naala unga sales stop aagalam\", \"Ippo solra 3 steps-ah note pannikonga\", \"Save pannikonga, kandippa help pannum!\"). Avoid formal bookish translation!\n\n\nOUTPUT FORMAT (Follow this exact template):\n\n# 🎬 Viral Reel Blueprint: [Catchy Hook Title]\n\n### 🎧 Audio & Vibe Recommendation\n- **Suggested Audio Track / Mood**: (e.g. Trending upbeat lo-fi, fast bass drop, intense cinematic riser, mysterious synthesizer)\n- **Voice Delivery**: (e.g. Confident, whispering mystery, high-energy smiling to camera, serious eye-contact)\n\n---\n\n### ⚡ 3 Scroll-Stopping Hook Options (First 0-3 Seconds)\n*(The hook determines 80% of reel reach. Make them impossible to swipe away!)*\n1. **The Contrarian / Warning Hook**:\n   - 🎥 *Visual Action*: [Describe exact physical action, zoom-in, or prop]\n   - 🗣️ *Spoken Line*: \"...\"\n   - 🔤 *On-Screen Bold Text*: [...]\n2. **The Curiosity Gap Hook**:\n   - 🎥 *Visual Action*: [...]\n   - 🗣️ *Spoken Line*: \"...\"\n   - 🔤 *On-Screen Bold Text*: [...]\n3. **The Direct Value / Secret Hook**:\n   - 🎥 *Visual Action*: [...]\n   - 🗣️ *Spoken Line*: \"...\"\n   - 🔤 *On-Screen Bold Text*: [...]\n\n---\n\n### 📜 Master Production Script (30s Breakdown)\n| Timestamp | 🎥 Visual & Camera Direction | 🗣️ Spoken Audio Script (Tanglish) | 🔤 Animated On-Screen Text | 🔊 Sound FX (SFX) |\n|---|---|---|---|---|\n| 00:00 - 00:03 | [Talking head, sudden punch-in zoom] | \"[The Hook - Spoken with immediate urgency]\" | [HOOK KEYWORDS IN YELLOW] | [Whoosh] |\n| 00:03 - 00:10 | [Screen record / B-roll of problem / Gesture] | \"[The Problem / Context - Why this matters to the viewer]\" | [KEY CHALLENGE PHRASE] | [Tension riser] |\n| 00:10 - 00:20 | [Step 1 & Step 2 visual demonstrations] | \"[The Core Solution / 2 Actionable Steps from context]\" | [STEP 1 / STEP 2 HIGHLIGHTS] | [Pop / Click] |\n| 00:20 - 00:27 | [Punchy summary / Result reveal] | \"[The Secret / Big Takeaway & Transformation]\" | [RESULT NUMBER / BENEFIT] | [Ding / Cash chime] |\n| 00:27 - 00:30 | [Pointing down / Looking into camera] | \"[Seamless Call-To-Action connecting to loop]\" | [COMMENT / SAVE CTA] | [Bass hit] |\n\n---\n\n### 🔄 Infinite Replay Loop Secret\n- **Seamless Loop Line**: Explain how the very last sentence connects back to the first word of the hook so the video loops infinitely on auto-play!\n\n---\n\n### 📌 Ready-to-Publish Instagram Caption\n- **Hook Line**: (Curiosity-packed line that stops the scroll before \"...more\")\n- **Value Summary**: (3 clear bullet points with emojis summarizing the key steps)\n- **Engagement Trigger**: (Specific question that compels people to comment)\n- **Call-To-Action (CTA)**: (\"Comment '[KEYWORD]' below and I'll DM you the link / Save this for later!\")\n\n---\n\n### 🏷️ 15 Curated Viral Hashtags\n- **Niche Focus (5)**: #...\n- **Industry & Creator (5)**: #...\n- **Broad Explore Reach (5)**: #...\n\n---\n\n### 💡 Creator Production & Teleprompter Tip\n- (Give 2 quick actionable tips on facial expression, jump cuts, and text placement so it isn't blocked by Instagram UI icons).",
+      "inputs": {
+        "contentType": "reel_script",
+        "category": "instagram",
+        "topic": "Dental Clinic 3 Brushing Mistakes",
+        "language": "Tanglish"
+      },
+      "content": "# 🎬 Viral Reel Blueprint: 3 Brush Mistakes Uringa!\n\n### 🎧 Audio & Vibe Recommendation\n- **Suggested Audio Track / Mood**: Fast-paced trending beat with a crisp bass drop at 0:03.\n- **Voice Delivery**: High-energy, friendly, smiling directly to camera like you are talking to a close friend.\n\n---\n\n### ⚡ 3 Scroll-Stopping Hook Options (First 0-3 Seconds)\n*(The hook determines 80% of reel reach. Make them impossible to swipe away!)*\n1. **The Contrarian / Warning Hook**:\n   - 🎥 *Visual Action*: Looking shocked, pointing a toothbrush straight at the camera lens with a close-up zoom.\n   - 🗣️ *Spoken Line*: \"Neegha pannra indha oru thappu, unga pallu-ku romba dangerous!\"\n   - 🔤 *On-Screen Bold Text*: STOP BRUSHING LIKE THIS! 🛑\n2. **The Curiosity Gap Hook**:\n   - 🎥 *Visual Action*: Shaking head side-to-side, holding up index finger.\n   - 🗣️ *Spoken Line*: \"Unga dentist ungalukku sollaatha 3 brushing mistakes ithuthaan!\"\n   - 🔤 *On-Screen Bold Text*: DENTIST SECRETS 🦷🤫\n3. **The Direct Value / Secret Hook**:\n   - 🎥 *Visual Action*: Quick jump cut, pulling toothbrush close to face.\n   - 🗣️ *Spoken Line*: \"Daily toothbrush use panreengala? Appo indha 3 thappa kandippa pannathinga!\"\n   - 🔤 *On-Screen Bold Text*: 3 BRUSHING MISTAKES ⚠️\n\n---\n\n### 📜 Master Production Script (30s Breakdown)\n| Timestamp | 🎥 Visual & Camera Direction | 🗣️ Spoken Audio Script (Tanglish) | 🔤 Animated On-Screen Text | 🔊 Sound FX (SFX) |\n|---|---|---|---|---|\n| 00:00 - 00:03 | [Talking head, sudden punch-in zoom] | \"Neegha pannra indha oru thappu, unga pallu-ku romba dangerous!\" | STOP BRUSHING LIKE THIS! 🛑 | [Whoosh] |\n| 00:03 - 00:10 | [Show a stiff toothbrush bending aggressively against teeth mockup] | \"Mistake number 1: Romba hard-ah brush panrathu! Ithunaala gums damage aagi, bleeding varum.\" | MISTAKE 1: TOO HARD ❌ | [Tension riser] |\n| 00:10 - 00:20 | [Quick jump cut, pointing at watch then mouth] | \"Mistake number 2: Just 30 seconds-la brush-ah mudichurathu! Doctor sonna rule padi 2 minutes brush pananum.\" | MISTAKE 2: UNDER 2 MINS ⏱️ | [Pop / Click] |\n| 00:20 - 00:27 | [Showing wet brush stored improperly in a closed box] | \"Last and biggest mistake: Brush-ah wet-ah or bad ventilation-la vekkurathu. Bacteria easy-ah grow aagum!\" | MISTAKE 3: WET BRUSH 🦠 | [Cash chime] |\n| 00:27 - 00:30 | [Pointing down / Looking into camera with a smile] | \"Correct-a brush pannunga, smile-ah keep pannunga. Follow for more insights!\" | FOLLOW FOR MORE! 👇 | [Bass hit] |\n\n---\n\n### 🔄 Infinite Replay Loop Secret\n- **Seamless Loop Line**: End the spoken CTA with \"...insights!\" so that when the video loops back to the start, \"...Neegha pannra indha oru thappu...\" flows continuously without a noticeable pause.\n\n---\n\n### 📌 Ready-to-Publish Instagram Caption\n- **Hook Line**: Neengalum indha common brushing mistakes-ah daily panreengala? 🦷😬\n- **Value Summary**: \n  - 🛑 Brush pannum bothu romba force podaathinga—it hurts your gums!\n  - ⏱️ Always spend a full 2 minutes cleaning every corner.\n  - 🦠 Let your toothbrush dry properly to keep bacteria away.\n- **Engagement Trigger**: Unga current toothbrush-ah eththanai maasam oru thadva maathuveenga? Comments-la sollunga! 👇\n- **Call-To-Action (CTA)**: Save this reel so you remember it tomorrow morning, and Follow for more insights!\n\n---\n\n### 🏷️ 15 Curated Viral Hashtags\n- **Niche Focus (5)**: #DentalCareTips #HealthyTeeth #OralHygieneTips #BrushingMistakes #TamilDentist\n- **Industry & Creator (5)**: #DentalClinicChennai #SmileMakeover #HealthySmile #DentalHealth #TamilCreators\n- **Broad Explore Reach (5)**: #ReelItFeelIt #TrendingReels #ExplorePage #TamilReels #HealthTips\n\n---\n\n### 💡 Creator Production & Teleprompter Tip\n- Keep your camera at eye level and place your main text titles safely in the center middle zone so they never get blocked by Instagram's like/comment icons on the right or your caption text at the bottom. Use fast 0.5-second jump cuts between each mistake to keep audience retention soaring!",
+      "language": "Tanglish",
+      "version": 1,
+      "versionsHistory": [],
+      "isFavorite": false,
+      "isDraft": false,
+      "tags": [
+        "reel_script",
+        "tanglish"
+      ],
+      "createdAt": "2026-10-27T05:28:35.123Z",
+      "updatedAt": "2026-10-27T05:28:35.123Z"
+    },
+    {
+      "id": "cnt_ykcyua6ey",
+      "userId": "usr_admin_1",
+      "title": "HOOK GENERATOR: dental ciliinc",
+      "contentType": "hook_generator",
+      "category": "instagram",
+      "prompt": "CONTENT TYPE: HOOK_GENERATOR\nTOPIC / CORE CONCEPT: dental ciliinc\nTARGET AUDIENCE: General active audience\nLANGUAGE REQUIREMENT: Tamil (Ensure genuine native fluency and natural spoken cadence in Tamil)\nTONE & STYLE: Emotional & Storytelling\nCAMPAIGN OBJECTIVE: Drive follower growth & saves\nPREFERRED CALL TO ACTION: Comment 'REEL' to get the full link!\nSPECIFIC USER INSTRUCTIONS: CREATOR REEL STYLE: ⚡ High-Retention Hormozi Style (Bold Text, Jump Cuts, Rapid Value)\n\nREQUIRED OUTPUT STRUCTURE:\nGenerate 10 magnetic, high-retention hooks for this topic categorized by psychological triggers:\n1. **The Curiosity Gap Hook** (Makes scrolling past impossible)\n2. **The \"Stop Doing This\" Warning Hook** (Exposes a common mistake)\n3. **The Counter-Intuitive Truth Hook** (Flips conventional wisdom)\n4. **The Step-by-Step Secret Hook** (Promises actionable blueprint)\n5. **The Urgent FOMO Hook** (Highlights time/opportunity loss)\n6. **The Story Opening Hook** (\"Last week, something crazy happened...\")\n7. **The Question That Hits A Nerve Hook**\n8. **The Relatable Struggle Hook**\n9. **The Authority & Results Hook**\n10. **The Fast Quick-Win Hook**\n\nInclude visual action suggestion for each hook!",
+      "inputs": {
+        "contentType": "hook_generator",
+        "category": "instagram",
+        "topic": "dental ciliinc",
+        "language": "Tamil",
+        "tone": "Emotional & Storytelling",
+        "targetAudience": "",
+        "objective": "Drive follower growth & saves",
+        "preferredCta": "Comment 'REEL' to get the full link!",
+        "additionalInstructions": "CREATOR REEL STYLE: ⚡ High-Retention Hormozi Style (Bold Text, Jump Cuts, Rapid Value)"
+      },
+      "content": "Vanakkam! Here is your high-retention, Hormozi-style Hook Generator for dental clinics, crafted in natural, emotional, and engaging spoken Tamil. \n\n---\n\n### FLOWORA AI CONTENT ENGINE: DENTAL CLINIC HOOKS\n**Target Audience:** General active audience  \n**Language:** Tamil (Natural spoken cadence)  \n**Tone:** Emotional & Storytelling  \n**Objective:** Drive follower growth & saves  \n**CTA:** Comment 'REEL' to get the full link!\n\n---\n\n#### 1. The Curiosity Gap Hook\n* **Spoken Script (Tamil):** \"Neenga daily brush panreenga... aana unga pallu yen innum yellow-ah irukku theriyuma? Secret indha oru mistake-la dhaan irukku!\"\n* **Visual Action Suggestion:** Creator leans close to the camera, holds up a toothbrush, and points at their teeth with a shocked facial expression. Bold pop-up text: *DAILY BRUSH PANREENGALA?*\n\n#### 2. The \"Stop Doing This\" Warning Hook\n* **Spoken Script (Tamil):** \"Stop doing this right now! Unga pallu valikudhunnu indha oru domestic remedy-ai try pannineenga, unga root-kae aabathu vandhruvom!\"\n* **Visual Action Suggestion:** Fast zoom-in with a red warning overlay. Creator shakes their head vigorously and waves a finger at the camera. Bold pop-up text: *STOP DOING THIS!*\n\n#### 3. The Counter-Intuitive Truth Hook\n* **Spoken Script (Tamil):** \"Dentist-ta pogave vendam-nu nenaikireengala? Adhaan ungaloda biggest thappu. Ungalukku pain illana kuda, inga oru problem irukkalam!\"\n* **Visual Action Suggestion:** Creator crosses arms, smirks, and shrugs. Quick jump cut to a dental model. Bold pop-up text: *PAIN ILLAMA IRUKKAA?*\n\n#### 4. The Step-by-Step Secret Hook\n* **Spoken Script (Tamil):** \"Ortheodontist kitta pokama, unga pallu gap-ah 3 steps-la correct panna mudiyuma? Indha blueprint-ah miss pannidadheenga, save pannikoinga!\"\n* **Visual Action Suggestion:** Creator swipes up on screen showing a 1-2-3 numbered list graphic. Bold pop-up text: *3 SIMPLE STEPS!*\n\n#### 5. The Urgent FOMO Hook\n* **Spoken Script (Tamil):** \"Idhu oru oru minute video. Indha information-ah miss pannita, adutha month unga dental bill romba jasthi aagapovudhu. Watch till the end!\"\n* **Visual Action Suggestion:** A ticking clock graphic appears next to the creator's head with rapid jump cuts. Bold pop-up text: *DON'T MISS THIS!*\n\n#### 6. The Story Opening Hook\n* **Spoken Script (Tamil):** \"Last week oru patient vandharu... avaru sonna oru varthai kettu enake shock aiduchu. Pallu pudhu-ah varum-nu nenaichu romba bayanthutaru.\"\n* **Visual Action Suggestion:** Creator adjusts lighting, leans in conspiratorially like telling a secret to a best friend. Bold pop-up text: *AVARU SONNA VARDHAI...*\n\n#### 7. The Question That Hits A Nerve Hook\n* **Spoken Script (Tamil):** \"Yaarukavadhu smile pannum bothu kai-ah vechu vayira moodreengala? Unga smile ungalukke pudikaliya? Appo indha video ungalukuthaan.\"\n* **Visual Action Suggestion:** Creator mirrors the action of hiding their mouth while smiling, then drops hands seriously. Bold pop-up text: *SMILE PANNUM PODHU BAYAMA?*\n\n#### 8. The Relatable Struggle Hook\n* **Spoken Script (Tamil):** \"Ice-cream saptale pallu kizhinchu pogudha? Cold water kudikave bayama irukka? Enna maathiri neengalum kashtapadreengala?\"\n* **Visual Action Suggestion:** Creator winces dramatically, holding the side of their face like they just ate something freezing cold. Bold pop-up text: *ICECREAM SAPTALE PAIN-AA?*\n\n#### 9. The Authority & Results Hook\n* **Spoken Script (Tamil):** \"En kitta vara 10-la 8 patient-ku naan solra indha oru trick podhum... lifetime-ku root canal-la irundhu escape aagalam!\"\n* **Visual Action Suggestion:** Creator taps a stethoscope or points to a background framed dental degree/clinic certificate. Bold pop-up text: *8 OUT OF 10 PATIENTS!*\n\n#### 10. The Fast Quick-Win Hook\n* **Spoken Script (Tamil):** \"Oru 30 seconds... indha oru technique-ah try pannunga, unga bad breath problem romba easy-ah parandhu pogum!\"\n* **Visual Action Suggestion:** Fast-paced countdown timer on screen (30..29..28) while the creator demonstrates flossing or tongue scraping rapidly. Bold pop-up text: *30 SECONDS QUICK FIX!*\n\n---\n\n### 🔥 ENGAGEMENT CLOSER (Use in Caption):\n\"Don't wait until the pain becomes unbearable. Let’s get that healthy, confident smile back! 👇  \n💬 **Comment 'REEL' right now to get the full link and book your consultation!**  \n📌 **Save this post** so you don't forget these vital tips!\"",
+      "language": "Tamil",
+      "version": 1,
+      "versionsHistory": [],
+      "isFavorite": false,
+      "isDraft": false,
+      "tags": [
+        "hook_generator",
+        "tamil"
+      ],
+      "createdAt": "2026-10-27T05:12:51.383Z",
+      "updatedAt": "2026-10-27T05:12:51.383Z"
+    }
+  ],
+  "creditTransactions": [
+    {
+      "id": "tx_daatku508mw0as1o8",
+      "userId": "usr_g_ojzorzxhh",
+      "amount": 50,
+      "type": "initial",
+      "description": "Welcome bonus credits",
+      "balanceAfter": 100,
+      "createdAt": "2026-11-03T06:19:09.560Z"
+    },
+    {
+      "id": "tx_jaukvspr3mw08975u",
+      "userId": "usr_fubzc05bfmw08975r",
+      "amount": 50,
+      "type": "initial",
+      "description": "Welcome bonus credits",
+      "balanceAfter": 100,
+      "createdAt": "2026-11-03T05:08:30.978Z"
+    },
+    {
+      "id": "tx_kqa8u2hk6mvq8vxy9",
+      "userId": "usr_admin_1",
+      "amount": -5,
+      "type": "deduction",
+      "description": "AI Generation: reel script (\"Dental Clinic 3 Brushing Mista...\")",
+      "balanceAfter": 4993,
+      "idempotencyKey": "test_1793078910364",
+      "createdAt": "2026-10-27T05:28:30.369Z"
+    },
+    {
+      "id": "tx_b5ukaw9mvmvq8bovx",
+      "userId": "usr_admin_1",
+      "amount": -2,
+      "type": "deduction",
+      "description": "AI Generation: hook generator (\"dental ciliinc...\")",
+      "balanceAfter": 4998,
+      "idempotencyKey": "gen_ig_1793077963729_vhima",
+      "createdAt": "2026-10-27T05:12:45.501Z"
+    },
+    {
+      "id": "tx_9vnywvuqymvq7itpw",
+      "userId": "usr_admin_1",
+      "amount": 2500,
+      "type": "initial",
+      "description": "Initial administrator credit allocation",
+      "balanceAfter": 5000,
+      "createdAt": "2026-10-27T04:50:18.740Z"
+    }
+  ],
+  "generationLogs": [
+    {
+      "userId": "usr_admin_1",
+      "contentType": "reel_script",
+      "creditsCharged": 5,
+      "durationMs": 4753,
+      "status": "success",
+      "id": "log_wbphccyjy",
+      "timestamp": "2026-10-27T05:28:35.123Z"
+    },
+    {
+      "userId": "usr_admin_1",
+      "contentType": "hook_generator",
+      "creditsCharged": 2,
+      "durationMs": 5881,
+      "status": "success",
+      "id": "log_5b9sfwz5e",
+      "timestamp": "2026-10-27T05:12:51.382Z"
+    }
+  ],
+  "settings": {
+    "creditCosts": {
+      "universal": 4,
+      "reel_script": 5,
+      "hook_generator": 2,
+      "caption_hashtags": 2,
+      "carousel_copy": 6,
+      "instagram_post": 3,
+      "youtube_shorts": 5,
+      "youtube_longform": 10,
+      "youtube_titles_desc": 3,
+      "ad_copy": 4,
+      "blog_draft": 12,
+      "email_campaign": 4,
+      "whatsapp_promo": 2,
+      "linkedin_post": 3,
+      "repurpose": 6,
+      "refine_rewrite": 2,
+      "refine_improve": 2,
+      "refine_expand": 3,
+      "refine_shorten": 2,
+      "refine_translate": 2,
+      "refine_tone": 2
+    },
+    "defaultFreeCredits": 50,
+    "registrationOpen": true,
+    "maintenanceMode": false
+  }
+}
